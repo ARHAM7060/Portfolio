@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Movie Recommender System",
+      "description": "A content-based recommender system using cosine similarity and Streamlit.",
+      "tech": ["Python", "Streamlit", "Scikit-learn", "TMDB API"],
+      "github": "https://github.com/yourusername/movie-recommender-system",
+      "demo": "https://yourdemo-link.com"
+    },
+    {
+      "title": "Laptop Price Predictor",
+      "description": "ML model to predict laptop prices using hardware features.",
+      "tech": ["Python", "Pandas", "Streamlit", "Scikit-learn"],
+      "github": "https://github.com/yourusername/laptop-price-predictor",
+      "demo": "https://yourdemo-link.com"
+    },
+    {
+      "title": "Project 3 Title",
+      "description": "Short description of your third project.",
+      "tech": ["Python", "Whatever"],
+      "github": "https://github.com/yourusername/project-3",
+      "demo": "https://yourdemo-link.com"
+    }
+  ]
+  
